@@ -1,0 +1,36 @@
+.div_outer {
+  width: 306px;
+  padding: 10px;
+  border-style: outset;
+  border-width: thin 8px 8px thin;
+  border-color: lightgray;
+}
+
+.h2_animal_name {
+  margin-bottom: 30px;
+}
+
+.img_animal_pic {
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+.div_inner {
+  width: 280px;
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+.p_interesting_fact {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
